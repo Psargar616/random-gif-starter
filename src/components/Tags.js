@@ -33,6 +33,8 @@ const {gif,loading,fetchData} = useGif(tag);
     setTag(event.target.value);
   }
 
+
+  
   return (
     <div className="xl:w-6/12 sm:w-full lg:w-10/12 bg-[#fff] rounded-lg border-4 flex flex-col items-center gap-y-4 p-[1rem]">
       <h1 className="text-2xl uppercase underline font-bold">
