@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![ss](../../random-gif-starter/screenshots/screencapture.png)
-
+<!-- ![ss](../../random-gif-starter/screenshots/screencapture.png) -->
+![ss](screenshots/screencapture.png)
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/Psargar616/random-gif-starter)
